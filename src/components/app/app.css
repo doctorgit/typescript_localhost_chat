@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body, #root {
+    height: 100%;
+}
+
+textarea {
+    outline: none;
+    -moz-appearance: none;
+    border: 1px solid #999; /* FireFox */
+    resize: none;
+    text-indent: .5rem;
+}

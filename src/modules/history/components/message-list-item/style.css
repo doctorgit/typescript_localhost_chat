@@ -1,0 +1,25 @@
+.message {
+    border-radius: 20px;
+    padding: 8px 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.other-message {
+    background: #b2ebf2 linear-gradient(180deg, #e0f7fa, #b2ebf2) repeat-x !important;
+}
+
+.my-message {
+    background: #a5d6a7 linear-gradient(180deg, #c8e6c9, #a5d6a7) repeat-x !important;
+}
+
+.message-user-name {
+    color: #0277bd;
+}
+.message-text {
+    color: #424242;
+}
+
+.message-time {
+    color: #616161;
+}

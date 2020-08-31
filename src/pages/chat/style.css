@@ -1,0 +1,15 @@
+.chat-page-container .message-list-container {
+    height: 75%;
+}
+
+.chat-page-container .message-list-container > .row {
+    height: 100%;
+}
+
+.chat-page-container .message-list-container .ReactVirtualized__Grid__innerScrollContainer {
+   /* max-height: 100% !important;*/
+}
+
+.chat-page-container .message-box-container {
+    height: 25%;
+}
